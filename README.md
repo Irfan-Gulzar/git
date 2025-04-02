@@ -1,2 +1,3 @@
 # git
-Practicong GIT
+Practicing GIT <br>
+Editor : IRFAN GULZAR
